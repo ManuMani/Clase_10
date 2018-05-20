@@ -1,21 +1,13 @@
-num,name,date,ref,img,url
-"#1",Ace Ventura: Un detective diferente,1994,Comedia,https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/AceVentura.png,http://www.nme.com/news/film/ace-ventura-pet-detective-considered-potential-reboot-2154013
-"#2",Garra Negra,2010,Accion,http://r1.abcimg.es/resizer/resizer.php?imagen=http%3A%2F%2Fwww.abc.es%2Fmedia%2Fpeliculas%2F000%2F031%2F172%2Fgarra-negra-2.jpg&nuevoancho=620&medio=abc,http://www.abc.es/play/pelicula/garra-negra-31172/
-"#3",Guerra Mundial Z,2013,Accion,http://estacionk2.com/k2/wp-content/uploads/2018/04/descarga-1-2-700x357.jpg,http://estacionk2.com/para-ver/guerra-mundial-z-retrasa-otra-vez-la-produccion-la-secuela/
-"#4",Matrix,1999,Accion,http://cdn2.gamedots.mx/media/gd/styles/gallerie/public/images/2017/10/matrixneo.jpg,https://geeks.media/the-matrix-1999-a-metaphysical-film
-"#5",El niño con el pijama de rayas,2008,Drama,https://www.alohacriticon.com/wp-content/uploads/elcriticonfotos/ninopijama008.jpg,https://www.alohacriticon.com/cine/criticas-peliculas/el-nino-con-el-pijama-rayas-mark-herman/
-"#6",Nila,2016,Drama,http://www.buzz.net.pk/wp-content/uploads/2017/07/nila-750x500.jpg,http://www.buzz.net.pk/nila-2016/
-"#7",Copycat,1995,Thriller,https://ia.media-imdb.com/images/M/MV5BNTU5NTU1OTcyMF5BMl5BanBnXkFtZTYwOTA4MTk5._V1_.jpg,https://www.imdb.com/title/tt0112722/mediaviewer/rm3199180544
-"#8",El candidato,2016,Comedia,https://pics.filmaffinity.com/el_candidato-639535184-mmed.jpg,https://www.filmaffinity.com/ar/film255805.html
-"#9",El dictador,2012,Comedia,http://picturestack.com/544/723/6jcELDICTADOR0NF.jpg,http://caratulasycover.blogspot.cl/2012/08/el-dictador-2012-dvd.html
-"#10",El verano de sus vidas,2012,Comedia,http://4.bp.blogspot.com/-MAUQtP9KBW0/Uk1ef2EBBYI/AAAAAAAAW1k/JBRcU0_JdBg/s400/El_Verano_De_Sus_Vidas_-_Custom_por_lolocapri.jpg,http://www.tavernamasti.com/2013/10/critica-de-el-verano-de-sus-vidas-de.html
-"#11",Frank,2014,Comedia,https://lavozenoffdotnet.files.wordpress.com/2014/09/frank-cartel.jpg?w=470&h=693,https://lavozenoff.net/2014/09/26/critica-frank/
-"#12",Jackass 3,2010,Comedia,https://image.tmdb.org/t/p/w342/5j9VFEVjYn0FtqZGqDcmMPYSVoY.jpg,https://www.pelisplus.tv/pelicula/jackass-3d/
-"#13",La familia Adams,1991,Comedia,http://lasoga.org/wp-content/uploads/2014/09/American-Horror-Family-3.jpg,http://lasoga.org/familias-de-horror-americanas-gotico-televisivo-para-todos-los-publicos/
-"#14",Love me!,2014,Comedia,https://2.bp.blogspot.com/-BQBi0ZPz0TE/U1lFpZoQCWI/AAAAAAAAO-M/EMwsAUstpPI/s1600/Love_Me_2.jpg,https://klymkiwfilmcorner.blogspot.cl/2014/04/love-me-review-by-greg-klymkiw-hot-docs.html
-"#15",Red carpet,2014,Comedia,https://www.netflixespana.es/media/27/red-carpet_80125668.jpg,https://www.netflixespana.es/red-carpet/26848
-"#16",Señales de amor,2001,Comedia,http://104.236.196.111/imdb//media/poster_movies/9Ldjue9cbOfALPLepCoArCyCXJZ.jpg,https://cineguru.com.mx/movie/5032/
-"#17",Isla Calaca,2017,Familiares,http://1070noticias.com.mx/wp-content/uploads/2017/09/isla-calabaza.jpg,http://1070noticias.com.mx/espectaculos/isla-calaca-lo-nuevo-de-anima-estudios/
-"#18",El Bosque,2016,Drama,http://catalogodepeliculas.com/EN%20EL%2018.jpg,http://catalogodepeliculas.com/EN%20EL%20BOSQUE%202016.htm
-"#19",El milagro,2016,Drama,http://2.bp.blogspot.com/-yllJ6Y6mPKE/Vizo6tJH0nI/AAAAAAAAAmA/dcbIVzqp7eE/s320/EL%2BMILAGRO%2BDE%2BCOKEVILLE.jpg,http://peliculasmrd.blogspot.cl/2015/10/el-milagro-de-cokeville-2015-audio.html
-"#20",Flores raras,2013,Drama,http://gnula.nu/wp-content/uploads/2014/09/Flores_raras_poster.jpg,http://gnula.nu/drama/ver-flores-raras-2013-online/
+raza,tamaño,pelo,peso,altura,img,url
+"Border Collie",Mediano,Manto doble y de largo mediano. Denso y suave.,Entre 16-23kg,Entre 46 y 53 cm.,https://static.hogarmania.com/archivos/201605/border-collie-4-1280x720x80xX.jpg,http://www.razasdeperro.net/perro-border-collie/
+"Caniche","Existen 4 tamaños: grande,estándar, miniatura y toy",Muy enrulado con textura lanosa abundante,"Grande:20-22kg,Estándar:10-12kg,Miniatura:4-7kg,Toy:2-3kg","Grande:45-60cm, Estándar:35-45,Miniatura:28-35cm,Toy:24-28",https://www.hogarmania.com/archivos/201705/mascotas-perros-razas-caniche-XxXx80.jpg,"http://www.razasdeperro.net/perro-caniche/"
+"Salchicha","Alargado y compacto, músculos fuertes","3 Variedades:pelo corto, crespo y largo",Entre 7-9kg,Entre 17-25cm,"http://milmascotas.hiperarticulos.com/wp-content/uploads/2016/04/perro-salchicha-3.jpg,"http://www.razasdeperro.net/perro-salchicha/"
+"Dálmata","Mediano,atlético y coompacto","Corto,duro,denso,liso y brillante",Entre 27-32kg,Entre 56-61cm,https://static16.gestionaweb.cat/447/pwimg-1024/dalmata-3.jpg,http://www.razasdeperro.net/perro-dalmata/
+"Labrador","Mediano,musculoso,fuerte y compacto","Corto,grueso y denso",Entre 27-37kg,Entre 56-57cm,https://okdiario.com/img/2017/06/30/perro-labrador-1-655x368.jpg,http://www.razasdeperro.net/perro-labrador/
+"Bulldog Americano","Mediano,robusto,compacto y fuerte","Corto,liso,suave y pegado al cuerpo",Entre 45-55kg,Entre 57-67cm,https://www.mundoperro.net/wp-content/uploads/Bulldog-americano.jpg,http://www.razasdeperro.net/perro-bulldog-americano/
+"Collie",Mediano y muy fuerte,"Largo,suave y compacto",Entre 20-29kg,Entre 56-61cm,https://www.dogalize.com/wp-content/uploads/2017/01/C3.jpg,http://www.razasdeperro.net/perro-collie/
+"Dóberman","Mediano,fuerte y robusto","Corto,duro,liso y denso.Muy pegado al cuerpo",Entre 40-45kg,Entre 68-72cm,https://mascotafiel.com/wp-content/uploads/2015/09/perros-doberman_opt-1.jpg,http://www.razasdeperro.net/perro-doberman/
+"Pequinés",Pequeño y rectangular,"Muy lacio,abundante y largo",Entre 2-8kg,Entre 15-19cm,https://notasdemascotas.com/wp-content/uploads/2017/08/Pekin%C3%A9s.jpg,http://www.razasdeperro.net/perro-pequines/
+"Galgo Español",Mediano y compacto,"Fino,corto y duro",Entre 23-25kg,Entre 62-70cm,https://static.hogarmania.com/archivos/201105/galgo-xl-848x477x80xX.jpg,http://www.razasdeperro.net/perro-galgo-espanol/
+"San Bernardo",Muy grande y macizo,Largo medio de liso a ligeramente ondeado,Entre 60-90kg,Entre 65-80cm,https://www.mundoperro.net/wp-content/uploads/San-bernardo.jpg,http://www.razasdeperro.net/perro-san-bernardo/
+"Golden Retriever","Mediano,musculoso y fuerte","Largo medio,liso u ondulado",Entre 27-32kg,Entre 51-61cm,https://upload.wikimedia.org/wikipedia/commons/c/c0/Golden_Retriever_with_tennis_ball.jpg,https://es.wikipedia.org/wiki/Golden_retriever
